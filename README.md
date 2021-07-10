@@ -12,17 +12,16 @@ Dữ liệu về kết quả các trận đấu bóng đá quốc tế từ năm
 
 *results.csv gồm các cột:
 
-date - ngày diễn ra trận đấu
-home_team - tên của đội chủ nhà
-away_team - tên của đội khách
-home_score - tỷ số toàn trận của đội chủ nhà bao gồm hiệp phụ, không bao gồm loạt sút luân lưu
-away_score - tỷ số toàn trận của đội khách bao gồm hiệp phụ, không bao gồm loạt sút luân lưu
-tournament - tên của giải đấu
-city - tên thành phố / thị trấn / đơn vị hành chính nơi trận đấu diễn ra
-country - tên quốc gia nơi trận đấu diễn ra
-neutral - Cột TRUE / FALSE cho biết trận đấu có được diễn ra tại một địa điểm trung lập hay không
-
-Dữ liệu được public trên
+date - ngày diễn ra trận đấu.
+home_team - tên của đội chủ nhà.
+away_team - tên của đội khách.
+home_score - tỷ số toàn trận của đội chủ nhà bao gồm hiệp phụ, không bao gồm loạt sút luân lưu.
+away_score - tỷ số toàn trận của đội khách bao gồm hiệp phụ, không bao gồm loạt sút luân lưu.
+tournament - tên của giải đấu.
+city - tên thành phố / thị trấn / đơn vị hành chính nơi trận đấu diễn ra.
+country - tên quốc gia nơi trận đấu diễn ra.
+neutral - Cột TRUE / FALSE cho biết trận đấu có được diễn ra tại một địa điểm trung lập hay không.
+Dữ liệu được public trên:
 https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017?select=results.csv
 
 
