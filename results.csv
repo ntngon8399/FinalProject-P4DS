@@ -42400,7 +42400,4 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-07-06,Haiti,Bermuda,NA,NA,Gold Cup qualification,Fort Lauderdale,United States,TRUE
 2021-07-06,Guatemala,Guadeloupe,8,1,Gold Cup qualification,Fort Lauderdale,United States,TRUE
 2021-07-06,Trinidad and Tobago,French Guiana,8,1,Gold Cup qualification,Fort Lauderdale,United States,TRUE
-2021-07-07,England,Denmark,NA,NA,UEFA Euro,London,England,FALSE
-2021-07-09,NA,NA,NA,NA,Copa América,Brasília,Brazil,NA
-2021-07-10,NA,NA,NA,NA,Copa América,Rio de Janeiro,Brazil,NA
-2021-07-11,NA,NA,NA,NA,UEFA Euro,London,England,NA
+2021-07-07,England,Denmark,1,1,UEFA Euro,London,England,FALSE
